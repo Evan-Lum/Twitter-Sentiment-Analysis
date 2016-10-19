@@ -7,11 +7,11 @@ import string
 import xlsxwriter # Write to Excel Sheet, cannot read or modify excel sheets/workbooks
 
 # Global Variables
-consumer_key = '8YsGPH4YbrLY9zSyDmsNgd6il'
-consumer_secret = 'LOQYFU0CC6tc5YlKMNqZpM2vEIotqIkqzMvd1dbA3BBZyEsB4W'
+consumer_key = <'Enter your own personal Consumer Key'>
+consumer_secret = <'Enter your own personal Consumer Secret'>
 
-access_token = '224846326-190Ifjzu5w19uQYoExJCidOxPg2LYCJcjqmqVvLm'
-access_token_secret = 'B2accBkeWhXhwfVRI05W7cL1Jeknvlign6jlXubHHRWF4'
+access_token = <'Enter your own personal Access Token'>
+access_token_secret = <'Enter your own personal Access Token Secret'>
 
 # Twitter Authentication
 def auth_user_twitter():
