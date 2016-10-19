@@ -9,9 +9,9 @@ Sign up for Twitter API @ https://apps.twitter.com/
 Need your own personal Twitter account connected to verified phone number.
 
 Required:
-Consumer Key
-Consumer Secret
-Access Token
-Access Token
+1.  Consumer Key
+2.  Consumer Secret
+3.  Access Token
+4.  Access Token
 
 For more information see: https://www.youtube.com/watch?v=o_OZdbCzHUA.
